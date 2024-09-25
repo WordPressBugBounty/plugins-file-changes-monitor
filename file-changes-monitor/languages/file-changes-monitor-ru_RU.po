@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WFMP-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-18 16:45+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: LikeBtn <support@likebtn.com>\n"
+"Language-Team: WordpressPlugins.ru <rlector@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../classes\n"
+
+#: ../classes/wpfmp.class.php:134
+msgid "Scan Successful"
+msgstr "Сканирование завершено удачно"
+
+#: ../classes/wpfmp.class.php:350 ../classes/wpfmp.class.php:551
+msgid "Clear admin alert"
+msgstr "Удалить извещение"
+
+#: ../classes/wpfmp.class.php:352
+#, php-format
+msgid "Files Changed: %d"
+msgstr "Изменились: %d"
+
+#: ../classes/wpfmp.class.php:353
+#, php-format
+msgid "Files Added: %d"
+msgstr "Добавились: %d"
+
+#: ../classes/wpfmp.class.php:354
+#, php-format
+msgid "Files Removed: %d"
+msgstr "Удалились: %d"
+
+#: ../classes/wpfmp.class.php:360
+msgid "Files Changed:"
+msgstr "Изменились:"
+
+#: ../classes/wpfmp.class.php:364 ../classes/wpfmp.class.php:457
+#: ../classes/wpfmp.class.php:507
+msgid "File"
+msgstr "Файл"
+
+#: ../classes/wpfmp.class.php:368 ../classes/wpfmp.class.php:510
+msgid "Old Filesize"
+msgstr "Старый размер"
+
+#: ../classes/wpfmp.class.php:369
+msgid "New Filesize"
+msgstr "Новый размер"
+
+#: ../classes/wpfmp.class.php:374
+msgid "Old Modified Date"
+msgstr "Старая дата"
+
+#: ../classes/wpfmp.class.php:375
+msgid "New Modified Date"
+msgstr "Новая дата"
+
+#: ../classes/wpfmp.class.php:380 ../classes/wpfmp.class.php:516
+msgid "Old Permissions"
+msgstr "Старые разрешения"
+
+#: ../classes/wpfmp.class.php:381
+msgid "New Permissions"
+msgstr "Новые разрешения"
+
+#: ../classes/wpfmp.class.php:386
+msgid "Content Changed"
+msgstr "Изменилось содержимое"
+
+#: ../classes/wpfmp.class.php:435 ../classes/wpfmp.settings.class.php:482
+#: ../classes/wpfmp.settings.class.php:508
+msgid "Yes"
+msgstr "Да"
+
+#: ../classes/wpfmp.class.php:437 ../classes/wpfmp.settings.class.php:483
+#: ../classes/wpfmp.settings.class.php:509
+msgid "No"
+msgstr "Нет"
+
+#: ../classes/wpfmp.class.php:453
+msgid "Files Added:"
+msgstr "Добавились:"
+
+#: ../classes/wpfmp.class.php:460
+msgid "Filesize"
+msgstr "Размер"
+
+#: ../classes/wpfmp.class.php:463
+msgid "Modified Date"
+msgstr "Дата"
+
+#: ../classes/wpfmp.class.php:466 ../classes/wpfmp.settings.class.php:534
+msgid "Permissions"
+msgstr "Разрешения"
+
+#: ../classes/wpfmp.class.php:503
+msgid "Files Removed:"
+msgstr "Удалились:"
+
+#: ../classes/wpfmp.class.php:513
+msgid "Old Modified"
+msgstr "Старая дата"
+
+#: ../classes/wpfmp.class.php:519
+msgid "Old Hash"
+msgstr "Старый хеш"
+
+#: ../classes/wpfmp.class.php:575
+#, php-format
+msgid "WordPress File Monitor: Alert (%s)"
+msgstr "WordPress File Monitor: Извещение  (%s)"
+
+#: ../classes/wpfmp.class.php:611 ../classes/wpfmp.settings.class.php:265
+msgid "WordPress File Monitor"
+msgstr "WordPress File Monitor"
+
+#: ../classes/wpfmp.class.php:712
+msgid ""
+"<strong>Warning!</strong> WordPress File Monitor has detected a change in "
+"the files on your site."
+msgstr ""
+"<strong>Внимание!</strong> WordPress File Monitor обнаружил изменения в "
+"файлах на вашем сайте."
+
+#: ../classes/wpfmp.class.php:714
+msgid "View file changes"
+msgstr "Просмотреть изменения в файлах"
+
+#: ../classes/wpfmp.settings.class.php:184
+msgid "Manual scan completed"
+msgstr "Ручное сканирование завершено."
+
+#: ../classes/wpfmp.settings.class.php:192
+msgid "Settings reset"
+msgstr "Восстановлены настройки по умолчанию."
+
+#: ../classes/wpfmp.settings.class.php:199
+msgid "Admin alert cleared"
+msgstr "Извещение было удалено."
+
+#: ../classes/wpfmp.settings.class.php:221
+msgid "Invalid action encountered"
+msgstr "Случилась неожиданная ошибка."
+
+#: ../classes/wpfmp.settings.class.php:243
+#: ../classes/wpfmp.settings.class.php:306
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../classes/wpfmp.settings.class.php:245
+msgid "Manual Scan"
+msgstr "Ручное сканирование"
+
+#: ../classes/wpfmp.settings.class.php:270
+msgid "Never"
+msgstr "Никогда"
+
+#: ../classes/wpfmp.settings.class.php:274
+#, php-format
+msgid "Last scanned: %s"
+msgstr "Дата последнего сканирования: %s"
+
+#: ../classes/wpfmp.settings.class.php:285
+msgid "Save changes"
+msgstr "Сохранить настройки"
+
+#: ../classes/wpfmp.settings.class.php:286
+msgid "Save settings & send test email"
+msgstr "Сохранить и отправить тестовое письмо"
+
+#: ../classes/wpfmp.settings.class.php:287
+msgid "Manual scan"
+msgstr "Сканировать вручную"
+
+#: ../classes/wpfmp.settings.class.php:288
+msgid "Reset settings to defaults"
+msgstr "Настройки по умолчанию"
+
+#: ../classes/wpfmp.settings.class.php:296
+#, php-format
+msgid "Add a sexy %sLike Button%s to your posts or comments!"
+msgstr "Добавьте классную %sкнопку «Нравится»%s к записям или комментариям!"
+
+#: ../classes/wpfmp.settings.class.php:296
+msgid "Get instant stats and insights!"
+msgstr "Получайте мгновенную статистику!"
+
+#: ../classes/wpfmp.settings.class.php:296
+msgid "Get tons of likes!"
+msgstr "Получайте тысячи лайков!"
+
+#: ../classes/wpfmp.settings.class.php:307
+msgid "Before You Start"
+msgstr "Перед началом"
+
+#: ../classes/wpfmp.settings.class.php:308
+msgid "Cron Method"
+msgstr "Метод запуска:"
+
+#: ../classes/wpfmp.settings.class.php:309
+msgid "File Check Interval"
+msgstr "Интервал сканирования:"
+
+#: ../classes/wpfmp.settings.class.php:310
+msgid "Notify By Email"
+msgstr "Уведомление по Email:"
+
+#: ../classes/wpfmp.settings.class.php:311
+msgid "Notify Email Address"
+msgstr "Email получателя:"
+
+#: ../classes/wpfmp.settings.class.php:312
+msgid "From Email Address"
+msgstr "Email отправителя:"
+
+#: ../classes/wpfmp.settings.class.php:313
+msgid "Admin Alert"
+msgstr "Извещение в консоли:"
+
+#: ../classes/wpfmp.settings.class.php:314
+msgid "File Check Method"
+msgstr "Метод проверки:"
+
+#: ../classes/wpfmp.settings.class.php:315
+msgid "File Check Root"
+msgstr "Корневая папка сайта: "
+
+#: ../classes/wpfmp.settings.class.php:316
+msgid "Dirs/Files To Ignore"
+msgstr "Исключить пути/файлы:"
+
+#: ../classes/wpfmp.settings.class.php:317
+msgid "File Extensions Scan"
+msgstr "Сканирование по типу файлов:"
+
+#: ../classes/wpfmp.settings.class.php:318
+msgid "File Extensions"
+msgstr "Типы файлов:"
+
+#: ../classes/wpfmp.settings.class.php:329
+msgid "Invalid cron method selected"
+msgstr "Выбран некорректный метод запуска."
+
+#: ../classes/wpfmp.settings.class.php:340
+msgid "Invalid file check interval selected"
+msgstr "Выбран некорректный интервал сканирования."
+
+#: ../classes/wpfmp.settings.class.php:348
+msgid "Invalid notify by email selected"
+msgstr "Выбран некорректный вид уведомления."
+
+#: ../classes/wpfmp.settings.class.php:360
+msgid "One or more email to addresses are invalid"
+msgstr "Один или более адресов электронной почты недействителен"
+
+#: ../classes/wpfmp.settings.class.php:370
+msgid "No email to address entered"
+msgstr "Указан некорректный email отправителя"
+
+#: ../classes/wpfmp.settings.class.php:378
+msgid "Invalid from email address entered"
+msgstr "Указан некорректный email отправителя."
+
+#: ../classes/wpfmp.settings.class.php:385
+msgid "Invalid display admin alert selected"
+msgstr "Выбран некорректный метод извещения в консоли."
+
+#: ../classes/wpfmp.settings.class.php:397
+msgid ""
+"File check root is not valid. Make sure that PHP has read permissions of the "
+"entered file check root"
+msgstr ""
+"Корневая папка не доступна. Убедитесь, что PHP имеет права на чтение "
+"корневой папки сайта."
+
+#: ../classes/wpfmp.settings.class.php:406
+msgid "Invalid file extension mode selected"
+msgstr "Выбран некорректный метод сканирования."
+
+#: ../classes/wpfmp.settings.class.php:420
+msgid "This is a test message from WordPress File Monitor."
+msgstr "Это тестовое сообщение от WordPress File Monitor."
+
+#: ../classes/wpfmp.settings.class.php:434
+msgid ""
+"If you are using Nginx as a web server add the following lines to your .conf "
+"file:"
+msgstr ""
+"Если вы используете Nginx в качестве веб-сервера, добавьте следующее правило "
+"в ваш .conf файл:"
+
+#: ../classes/wpfmp.settings.class.php:439
+msgid "Make sure that the following file is not available from browser:"
+msgstr "Убедитесь, что следующий файл недоступен из браузера: "
+
+#: ../classes/wpfmp.settings.class.php:450
+msgid "WordPress Cron"
+msgstr "Встроенный cron-планировщик WordPress"
+
+#: ../classes/wpfmp.settings.class.php:451
+msgid "Other Cron"
+msgstr "Внешний cron-планировщик"
+
+#: ../classes/wpfmp.settings.class.php:455
+msgid ""
+"'Other cron' option stops WordPress from running the 'File Check Scan' on "
+"the built in cron scheduler and allows you to run it externally. If you know "
+"how to setup a cron externally it is recommended that you use this method. "
+"An external cron gives you greater flexibility on when to run the file "
+"monitor scan."
+msgstr ""
+"Опция \"cron-планировщик операционной системы\" отключает запуск "
+"сканирования файлов встроенным cron-планировщиком WordPress и позволяет вам "
+"запускать его извне самостоятельно. Если вы знаете, как настроить внешний "
+"cron-планировщик, рекомендуется использовать этот метод. Внешний cron-"
+"планировщик даёт большую гибкость в настройке времени запуска сканирования "
+"файлов."
+
+#: ../classes/wpfmp.settings.class.php:456
+msgid "Cron Command: "
+msgstr "Запуск командой:"
+
+#: ../classes/wpfmp.settings.class.php:468
+msgid "Hourly"
+msgstr "Каждый час"
+
+#: ../classes/wpfmp.settings.class.php:469
+msgid "Twice Daily"
+msgstr "Дважды в день"
+
+#: ../classes/wpfmp.settings.class.php:470
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: ../classes/wpfmp.settings.class.php:471
+msgid "Manual"
+msgstr "Вручную"
+
+#: ../classes/wpfmp.settings.class.php:471
+msgid "automatic check disabled"
+msgstr "автоматическая проверка отключена"
+
+#: ../classes/wpfmp.settings.class.php:492
+msgid "Separate multiple email address with a comma (,)"
+msgstr "Разделяйте email-адреса запятой (,)"
+
+#: ../classes/wpfmp.settings.class.php:532
+msgid " File Size"
+msgstr " Размер файла"
+
+#: ../classes/wpfmp.settings.class.php:533
+msgid " Date Modified"
+msgstr " Дата модификации"
+
+#: ../classes/wpfmp.settings.class.php:535
+msgid " File Content"
+msgstr "Содержимое файла"
+
+#: ../classes/wpfmp.settings.class.php:544
+msgid ""
+"If you install WordPress inside a subdirectory for instance, you could set "
+"this to the directory above that to monitor files outside of the WordPress "
+"installation."
+msgstr ""
+"Если у вас WordPress установлен внутри поддиректории, например, вы можете "
+"указать здесь вышележащий каталог, чтобы отслеживать файлы за пределами "
+"каталога WordPress."
+
+#: ../classes/wpfmp.settings.class.php:552
+msgid "One per line"
+msgstr "Один путь на строку"
+
+#: ../classes/wpfmp.settings.class.php:554
+msgid "Examples"
+msgstr "Примеры"
+
+#: ../classes/wpfmp.settings.class.php:572
+msgid "Disabled"
+msgstr "Отключено"
+
+#: ../classes/wpfmp.settings.class.php:573
+msgid "Exclude files that have an extension listed below"
+msgstr "Исключить файлы указанных типов файлов"
+
+#: ../classes/wpfmp.settings.class.php:574
+msgid "Only scan files that have an extension listed below"
+msgstr "Сканировать только указанные типы файлов"
+
+#: ../classes/wpfmp.settings.class.php:583
+msgid "Separate extensions with | character."
+msgstr "Перечисляйте типы файлов через символ |"
+
+#~ msgid "New Hash"
+#~ msgstr "Новый хеш"
+
+#~ msgid " File Hash"
+#~ msgstr " Хеш (по содержимому)"
+
+#~ msgid "View file changes and clear this alert"
+#~ msgstr "Просмотр изменений и очистка извещения"
+
+#~ msgid "Data Save Method"
+#~ msgstr "Хранение данных плагина:"
+
+#~ msgid "Invalid data save method selected"
+#~ msgstr "Выбран некоректный метод хранения данных плагина."
+
+#~ msgid "Invalid notify email address entered"
+#~ msgstr "Указан некорректный email получателя."
+
+#~ msgid "Database"
+#~ msgstr "База данных"
+
+#~ msgid "Default: %s"
+#~ msgstr "По умолчанию: %s"
